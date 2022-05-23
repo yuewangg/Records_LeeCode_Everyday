@@ -1,8 +1,8 @@
 # 算法模板 
 
-[各类基础算法模板](./problems/算法模板.md)
+[各类基础算法模板](./2022/算法模板.md)
 
-# LeetCode 打怪升级计划记录 by [代码随想录](https://mp.weixin.qq.com/s/2WetyP6IYQ6VotegepVpEw)
+# LeetCode 打怪升级计划记录 by [代码随想录](https://programmercarl.com/)
 
 ## 数组 
 
